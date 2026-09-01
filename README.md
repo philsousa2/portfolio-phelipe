@@ -1,13 +1,17 @@
 # Portfólio — Phelipe Sousa
 
-Site estático pronto para hospedagem em GitHub Pages, Cloudflare Pages, Netlify ou serviço equivalente.
+Site estático pronto para hospedagem na Vercel, GitHub Pages, Cloudflare Pages, Netlify ou serviço equivalente.
 
 ## Adicionar os vídeos
 
 1. Crie a pasta `assets/videos` se ela ainda não existir.
 2. Adicione os arquivos com estes nomes:
    - `projeto-01.mp4`
-   - `projeto-02.mp4`
+   - `projeto-02-01.mp4`
+   - `projeto-02-02.mp4`
+   - `projeto-02-03.mp4`
+   - `projeto-02-04.mp4`
+   - `projeto-02-05.mp4`
    - `projeto-03.mp4`
    - `projeto-04.mp4`
 3. As páginas detectam os arquivos automaticamente e substituem o aviso pelo player.
