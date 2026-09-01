@@ -1,0 +1,8 @@
+version: 1.0
+moments:
+  - id: hero-orb
+    role: focal-accent
+    fallback: static-gradient
+  - id: project-card-glow
+    role: category-differentiation
+    fallback: solid-panel

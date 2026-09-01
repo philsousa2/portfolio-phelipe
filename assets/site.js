@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-video]').forEach(async shell=>{const src=shell.dataset.video;try{const r=await fetch(src,{method:'HEAD'});if(!r.ok)return;const v=document.createElement('video');v.controls=true;v.preload='metadata';v.playsInline=true;v.src=src;shell.replaceChildren(v)}catch{}});
